@@ -1,0 +1,26 @@
+{
+  "name": "resource-1",
+  "status": "closed",
+  "latestData": [
+    {
+      "field1": 11,
+      "field2": "22"
+    },
+    {
+      "field1": 11,
+      "field2": "22"
+    },
+    {
+      "field1": 11,
+      "field2": "22"
+    },
+    {
+      "field1": 11,
+      "field2": "22"
+    },
+    {
+      "field1": 11,
+      "field2": "22"
+    }
+  ]
+}

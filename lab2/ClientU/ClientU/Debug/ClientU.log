@@ -1,0 +1,11 @@
+﻿  ClientU.cpp
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС\lab2\ClientU\ClientU\ClientU.cpp(192,27): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС\lab2\ClientU\ClientU\ClientU.cpp(178,1): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\um\Winsock2.h(1831): message : see declaration of 'inet_addr'
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС\lab2\ClientU\ClientU\ClientU.cpp(187,1): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\time.h(506): message : see declaration of 'localtime'
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС\lab2\ClientU\ClientU\ClientU.cpp(214,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС\lab2\ClientU\ClientU\ClientU.cpp(216,1): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+  ClientU.vcxproj -> \\Mac\Home\Desktop\STUDY\6 term\RIS\РИС\lab2\ClientU\Debug\ClientU.exe

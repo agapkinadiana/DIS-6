@@ -1,0 +1,5 @@
+
+2020-06-06T12:16:06.554Z: Data center start
+2020-06-06T12:16:11.575Z: Resource-1 responded with the http status: 200 and self-status: closed
+2020-06-06T12:16:11.575Z: Collected data from resource-2
+2020-06-06T12:16:16.570Z: Error while fetching data from resource: Error: connect ECONNREFUSED 127.0.0.1:8001

@@ -1,0 +1,38 @@
+create table Tris2(id int);
+insert into Tris2 values(1);
+
+select * from Tris2;
+
+drop database link ris2con;
+
+CREATE public DATABASE LINK ris1con
+  CONNECT TO RIS1 IDENTIFIED BY RIS1
+  USING 'ORCL';
+  
+select * from RIS1.Tris1@ris1con;
+
+insert into RIS1.Tris1@ris1con values (101);
+delete RIS1.Tris1@ris1con;
+  
+  
+begin
+
+	insert into RIS1.Tris1@ris1con values (401);
+	insert into RIS1.Tris1@ris1con values (402);
+	insert into RIS1.Tris1@ris1con values (403);
+
+	update RIS1.Tris1@ris1con set id=222 where id=401;
+	update RIS1.Tris1@ris1con set id=3333 where id=402;
+
+	commit;
+end;
+
+
+select * from RIS1.Tris1@ris1con;
+
+
+begin
+	insert into Tris1@ris1con values ('test');
+
+	commit;
+end;

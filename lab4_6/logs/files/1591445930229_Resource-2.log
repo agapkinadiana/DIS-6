@@ -1,0 +1,104 @@
+
+2020-06-06T12:18:50.234Z: Running 1 resource on http://localhost:8002
+2020-06-06T12:18:52.233Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:18:54.238Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:18:56.243Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:18:56.390Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:18:56.348Z
+2020-06-06T12:18:58.249Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:18:58.354Z: Retrieving resource-2's data, entity length: 12
+2020-06-06T12:18:59.356Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:18:59.352Z
+2020-06-06T12:19:00.253Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:00.354Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:02.255Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:02.367Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:02.358Z
+2020-06-06T12:19:03.357Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:19:04.259Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:05.371Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:05.363Z
+2020-06-06T12:19:06.266Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:07.358Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:08.271Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:08.359Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:19:08.373Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:08.364Z
+2020-06-06T12:19:10.275Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:11.375Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:11.370Z
+2020-06-06T12:19:12.279Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:13.375Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:19:14.283Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:14.362Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:14.376Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:14.371Z
+2020-06-06T12:19:16.287Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:17.380Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:17.376Z
+2020-06-06T12:19:18.290Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:18.375Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:19:20.295Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:20.385Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:20.380Z
+2020-06-06T12:19:21.368Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:22.300Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:23.373Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:19:23.386Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:23.380Z
+2020-06-06T12:19:24.302Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:26.305Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:26.389Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:26.384Z
+2020-06-06T12:19:28.307Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:28.379Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:28.388Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:19:29.398Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:29.388Z
+2020-06-06T12:19:30.311Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:32.315Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:32.396Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:32.393Z
+2020-06-06T12:19:33.378Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:19:34.320Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:35.377Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:35.398Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:35.394Z
+2020-06-06T12:19:36.325Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:38.328Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:38.387Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:19:38.402Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:38.394Z
+2020-06-06T12:19:40.333Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:41.406Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:41.399Z
+2020-06-06T12:19:42.336Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:42.381Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:43.392Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:19:44.340Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:44.404Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:44.402Z
+2020-06-06T12:19:46.345Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:47.411Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:47.406Z
+2020-06-06T12:19:48.350Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:48.396Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:19:49.390Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:50.354Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:50.414Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:50.410Z
+2020-06-06T12:19:52.359Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:53.395Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:19:53.412Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:53.410Z
+2020-06-06T12:19:54.365Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:56.369Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:56.394Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:19:56.415Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:56.411Z
+2020-06-06T12:19:58.373Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:19:58.401Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:19:59.416Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:19:59.412Z
+2020-06-06T12:20:00.376Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:02.377Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:02.426Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:20:02.418Z
+2020-06-06T12:20:03.402Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:20:03.418Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:20:04.382Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:05.427Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:20:05.420Z
+2020-06-06T12:20:06.387Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:08.393Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:08.408Z: Retrieving resource-2's data, entity length: 6
+2020-06-06T12:20:08.426Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:20:08.422Z
+2020-06-06T12:20:10.397Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:10.398Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:20:11.430Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:20:11.426Z
+2020-06-06T12:20:12.402Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:13.414Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:20:14.407Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:14.433Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:20:14.430Z
+2020-06-06T12:20:16.412Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:17.401Z: Retrieving data from data center for the 2 resource
+2020-06-06T12:20:17.441Z: Synchronizing resource-2 time with the data center's one: 2020-06-06T12:20:17.434Z
+2020-06-06T12:20:18.415Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json
+2020-06-06T12:20:18.420Z: Retrieving resource-2's data, entity length: 4
+2020-06-06T12:20:20.422Z: Committing new data for /Users/dianaagapkina/Desktop/Shared-Information-Systems-Help-master/lab4_6/remote-sources/resource2/state.json

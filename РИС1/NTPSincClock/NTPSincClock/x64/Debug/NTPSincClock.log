@@ -1,0 +1,8 @@
+﻿  NTPSincClock.cpp
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\NTPSincClock\NTPSincClock.cpp(58,10): warning C4309: 'initializing': truncation of constant value
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\NTPSincClock\NTPSincClock.cpp(77,20): warning C4309: '=': truncation of constant value
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\NTPSincClock\NTPSincClock.cpp(92,64): warning C4244: 'argument': conversion from 'DWORD64' to 'u_long', possible loss of data
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\NTPSincClock\NTPSincClock.cpp(93,64): warning C4244: 'argument': conversion from 'DWORD64' to 'u_long', possible loss of data
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\NTPSincClock\NTPSincClock.cpp(94,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+\\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\NTPSincClock\NTPSincClock.cpp(137,20): warning C4101: 'Cstemp': unreferenced local variable
+  NTPSincClock.vcxproj -> \\Mac\Home\Desktop\STUDY\6 term\RIS\РИС1\NTPSincClock\x64\Debug\NTPSincClock.exe

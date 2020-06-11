@@ -1,0 +1,50 @@
+create table Tris1(id int);
+
+select * from Tris1;
+
+drop database link ris2con;
+
+delete RIS2.Tris2@ris2con;
+    
+
+CREATE public DATABASE LINK ris2con
+  CONNECT TO RIS2 IDENTIFIED BY RIS2
+  USING 'ORCL';
+  
+
+select * from RIS2.Tris2@ris2con;
+
+
+begin
+	insert into Tris2@ris2con values (201);
+	insert into Tris2@ris2con values (202);
+	insert into Tris2@ris2con values (203);
+
+	update Tris2@ris2con set id=999 where id=201;
+	update Tris2@ris2con set id=1111 where id=202;
+
+	commit;
+end;
+
+
+select * from RIS2.Tris2@ris2con;
+
+
+begin
+	insert into Tris2@ris2con values ('test');
+
+	commit;
+end;
+
+
+create or replace procedure insertStr is
+begin
+    for i in 1 .. 1000 loop
+    insert into Tris2@ris2con values (i);
+    end loop;
+    commit;
+end insertStr;
+
+begin
+	insertStr();
+end;

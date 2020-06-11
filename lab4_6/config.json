@@ -1,0 +1,42 @@
+{
+  "dataCenter": {
+    "db": {
+      "db_name": "RIS4_6",
+      "username": "root",
+      "password": "DeWWsh123",
+      "options": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "logging": false,
+        "define": {
+          "timestamps": false
+        }
+      }
+    },
+    "refreshDataInterval": 5000,
+    "sendDataInterval": 7000,
+    "syncTimeInterval": 3000
+  },
+  "resource": {
+    "host": "localhost",
+    "portStartsFrom": 8001,
+    "count": 2,
+    "data": {
+      "produceNewDataInterval": 2000,
+      "producedDataCount": 2
+    },
+    "db": {
+      "db_name": "RIS4_6_Resource",
+      "username": "root",
+      "password": "DeWWsh123",
+      "options": {
+        "dialect": "mysql",
+        "host": "localhost",
+        "logging": false,
+        "define": {
+          "timestamps": false
+        }
+      }
+    }
+  }
+}

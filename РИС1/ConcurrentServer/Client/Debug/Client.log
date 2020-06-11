@@ -1,0 +1,6 @@
+﻿  Client.cpp
+d:\учеба\3 курс\пибсп(шиман)\лабы\8\concurrentserver\client\client.cpp(82): warning C4172: возвращение адреса локальной или временной переменной : echo
+d:\учеба\3 курс\пибсп(шиман)\лабы\8\concurrentserver\client\client.cpp(83): warning C4172: возвращение адреса локальной или временной переменной : time
+d:\учеба\3 курс\пибсп(шиман)\лабы\8\concurrentserver\client\client.cpp(84): warning C4172: возвращение адреса локальной или временной переменной : rand
+d:\учеба\3 курс\пибсп(шиман)\лабы\8\concurrentserver\client\client.cpp(86): warning C4172: возвращение адреса локальной или временной переменной : r
+  Client.vcxproj -> D:\Учеба\3 курс\ПиБСП(Шиман)\лабы\8\ConcurrentServer\Debug\Client.exe

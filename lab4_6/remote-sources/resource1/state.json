@@ -1,0 +1,30 @@
+{
+  "name": "resource-1",
+  "status": "closed",
+  "latestData": []
+}  {
+      "field1": 50,
+      "field2": "17"
+    },
+    {
+      "field1": 8,
+      "field2": "19"
+    },
+    {
+      "field1": 90,
+      "field2": "20"
+    },
+    {
+      "field1": 73,
+      "field2": "8"
+    },
+    {
+      "field1": 24,
+      "field2": "88"
+    },
+    {
+      "field1": 62,
+      "field2": "1"
+    }
+  ]
+}
